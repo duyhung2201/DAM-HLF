@@ -1,6 +1,6 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-# Blockchain-Empowered Metaverse: Decentralized Marketplace and Crowdsourcing System for Trading Data and Machine Learning Models
+# A Blockchain-Based Framework for Secure Digital Asset Management.
 
 ## Getting started
 
